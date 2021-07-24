@@ -9,3 +9,6 @@ Dont follow/unfollow more than 200 people in 24 hrs.(Instagram will ban you!!!).
 # Usage
 In the file credentials you feed your insta- Id and password
 In the file tags you feed in the acoounts whoes followers you want to follow.
+
+
+# Screenshots
