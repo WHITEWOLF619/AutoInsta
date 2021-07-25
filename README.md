@@ -12,7 +12,7 @@ Dont follow/unfollow more than 200 people in 24 hrs.(Instagram will ban you!!!).
 
 
 # Dependencies
-python v- 3.9.0
+python v- 3.8.3
 geckodriver (firefox webdriver )
 selenium (pip install selenium)
 bs4 (pip install bs4)
