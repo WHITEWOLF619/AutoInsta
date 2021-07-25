@@ -27,3 +27,5 @@ you can set the limit (currently 30)
 
 
 # Screenshots
+![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto1.jpg)
+![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto2.jpg)
