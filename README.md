@@ -21,6 +21,7 @@ bs4 (pip install bs4)
 # Usage
 In the file credentials you feed your insta- Id and password
 In the file tags you feed in the acounts whose followers you want to follow.
+open test.py in the IDE
 The program first calls another program t0 find info on people who need  to be unfollowed and people to followed .
 when you first run the program it asks you to enter the option to follow/unfollow.
 you can set the limit (currently 30)
