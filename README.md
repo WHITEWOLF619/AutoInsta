@@ -28,5 +28,7 @@ you can set the limit (currently 30)
 
 
 # Screenshots
-![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto1.jpg)
-![alt text](https://github.com/WHITEWOLF619/cryptotrackerr/blob/main/screenshots/crpyto2.jpg)
+![alt text](https://github.com/WHITEWOLF619/AutoInsta/blob/main/Screenshots/INPUT.jpg)
+![alt text](https://github.com/WHITEWOLF619/AutoInsta/blob/main/Screenshots/LOGIN.jpg)
+![alt text](https://github.com/WHITEWOLF619/AutoInsta/blob/main/Screenshots/STATUS.jpg)
+![alt text](https://github.com/WHITEWOLF619/AutoInsta/blob/main/Screenshots/FOLLOWED.jpg)
