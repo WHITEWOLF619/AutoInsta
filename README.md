@@ -10,9 +10,20 @@ This program has an algorithm that tries to evade instagram detection by using t
 
 Dont follow/unfollow more than 200 people in 24 hrs.(Instagram will ban you!!!).
 
+
+# Dependencies
+python v- 3.9.0
+geckodriver (firefox webdriver )
+selenium (pip install selenium)
+bs4 (pip install bs4)
+
+
 # Usage
 In the file credentials you feed your insta- Id and password
-In the file tags you feed in the acoounts whoes followers you want to follow.
+In the file tags you feed in the acounts whose followers you want to follow.
+The program first calls another program t0 find info on people who need  to be unfollowed and people to followed .
+when you first run the program it asks you to enter the option to follow/unfollow.
+you can set the limit (currently 30)
 
 
 # Screenshots
